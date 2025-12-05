@@ -10,7 +10,7 @@ class add
 	Scanner sc=new Scanner(System.in);
 	int fno,sno;
 	int sum;
-	//Scanner sc=new Scanner(System.in);
+	//Scanner sc=new Scanner(System.in);  
 	add(int f,int s)
 	{
 		fno=f;
